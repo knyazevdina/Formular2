@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+
+body {
+    background-image: url(../images/horses.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    font-family: "Nova Mono"; 
+    font-weight: bold;
+    font-size: larger;
+}
+
+form {
+   width: 50%;
+   background-color: rgba(241, 226, 204, 0.538);
+   margin: auto;
+}
+
+input {
+    border: none;
+    border-radius: 5px;
+      /* border-bottom: 2px solid rgb(82, 14, 14); */
+   
+}
+
+header {
+    font-family: "Nova Mono";
+    color: rgb(0, 0, 0);
+    background-color: rgba(241, 226, 204, 0.538);
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
